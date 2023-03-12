@@ -23,3 +23,8 @@ Also I'm 24/7 free for hire.
 ## Lessons Learned
 
 Optimizing websites for specific devices in which resolution is different than other devices.
+
+
+## Visit the webpage at 
+
+https://saminkirigaya.github.io/portfolio.github.io/index.html
