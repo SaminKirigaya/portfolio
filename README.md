@@ -27,3 +27,5 @@ Optimizing websites for specific devices in which resolution is different than o
 
 ## Visit the webpage at 
 https://saminkirigaya.github.io/simple-looking-portfolio.github.io/
+
+Added some Demo images 1,2,3 to demonstrate the primary look.
