@@ -26,5 +26,4 @@ Optimizing websites for specific devices in which resolution is different than o
 
 
 ## Visit the webpage at 
-
-https://saminkirigaya.github.io/portfolio.github.io/index.html
+https://saminkirigaya.github.io/simple-looking-portfolio.github.io/
